@@ -1,0 +1,20 @@
+**/__pycache__/
+**/venv
+**/log
+**/launch.json
+.tmp_pycache/
+
+# segredos e dados locais
+.env
+.env.*
+!.env*.example
+*.pem
+*.key
+*.asc
+**/session/storage.json
+__pycache__/
+.venv/
+venv/
+node_modules/
+logs/
+*.log
